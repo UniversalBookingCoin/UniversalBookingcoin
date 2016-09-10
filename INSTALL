@@ -1,0 +1,9 @@
+Building universalbookingcoin
+
+See doc/readme-qt.rst for instructions on building universalbookingcoin-Qt,
+the intended-for-end-users, nice-graphical-interface, reference
+implementation of universalbookingcoin.
+
+See doc/build-*.txt for instructions on building universalbookingcoind,
+the intended-for-services, no-graphical-interface, reference
+implementation of universalbookingcoin.
